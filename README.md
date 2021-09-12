@@ -1,4 +1,4 @@
-# RabbitmqDemo
+# RabbitmqDemo (demo都在test目录下)
 
 全文可以去CSDN查看我写的博客[RabbitMQ 快速入门](https://blog.csdn.net/qq_43781399/article/details/118654194)
 
